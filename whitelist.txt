@@ -1,0 +1,27 @@
+# Microsoft Services
+login.microsoftonline.com
+device.login.microsoftonline.com
+enterpriseregistration.windows.net
+graph.microsoft.com
+management.azure.com
+endpoint.microsoft.com
+admin.microsoft.com
+office.com
+office365.com
+teams.microsoft.com
+outlook.office.com
+sharepoint.com
+officeclient.microsoft.com
+officecdn.microsoft.com
+windowsupdate.com
+aka.ms
+
+# DNS Servers
+IP:DNS:10.204.5.53
+IP:DNS:10.205.5.53
+IP:DNS:8.8.8.8
+
+# Domain Controllers
+IP:DC:172.29.196.12
+IP:DC:172.29.196.4
+IP:DC:172.29.191.196
